@@ -4,3 +4,4 @@ write another line in branch dev and Simple
 
 how to sovle conflict
 
+add new line in dev
