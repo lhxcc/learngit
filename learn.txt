@@ -7,3 +7,5 @@ how to sovle conflict
 add new line in dev
 
 error line
+
+add reset content add reset content
